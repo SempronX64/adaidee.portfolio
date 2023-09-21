@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Credit
+Thanks for template!
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
